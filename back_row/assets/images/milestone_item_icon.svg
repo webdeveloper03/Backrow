@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.369" height="19.669" viewBox="0 0 23.369 19.669">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09c6f9"/>
+      <stop offset="1" stop-color="#045de9"/>
+    </linearGradient>
+  </defs>
+  <g id="Icon" transform="translate(-0.316 -0.166)">
+    <path id="Icon_Path" data-name="Icon Path" d="M4.379,0H.424A.423.423,0,0,0,0,.424V6.565a.423.423,0,0,0,.424.424H4.379A.423.423,0,0,0,4.8,6.565V.423A.423.423,0,0,0,4.379,0Z" transform="translate(6.515 12.846)" fill="url(#linear-gradient)"/>
+    <path id="Icon_Path-2" data-name="Icon Path" d="M4.379,0H.424A.423.423,0,0,0,0,.424V19.245a.423.423,0,0,0,.424.424H4.379a.423.423,0,0,0,.424-.424V.424A.423.423,0,0,0,4.379,0Z" transform="translate(12.682 0.166)" fill="url(#linear-gradient)"/>
+    <path id="Icon_Path-3" data-name="Icon Path" d="M4.379,0H.424A.423.423,0,0,0,0,.424v13.1a.423.423,0,0,0,.424.424H4.379a.423.423,0,0,0,.424-.424V.424A.424.424,0,0,0,4.379,0Z" transform="translate(18.882 5.884)" fill="url(#linear-gradient)"/>
+    <path id="Icon_Path-4" data-name="Icon Path" d="M4.379,0H.424A.423.423,0,0,0,0,.424v13.1a.423.423,0,0,0,.424.424H4.379a.423.423,0,0,0,.424-.424V.424A.424.424,0,0,0,4.379,0Z" transform="translate(0.316 5.884)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+class StringConstant {
+  static final String splashBtnText = "Let’s Get Started Now";
+  static final String loginwWelcome = "Welcome!";
+  static final String loginwWelcomeContent1 = "Please provide following";
+  static final String loginwWelcomeContent2 = "details for your new account";
+  static final String firstName = "Full Name";
+  static final String email = "Email Address";
+  static final String mobile = "Phone Number";
+  static final String tc = "Be creating your account you have\nto agree with our Teams and Conditions.";
+  static final String signupBtnText = "Sign up my account";
+  static final String signupAppleBtnText = "Sign up with Apple ID";
+  static final String alreadyHaveAccount = "Already have an account? - Sign In";
+  static final String phoneRegistration = "Phone\nRegistration";
+  static final String phoneRegistrationContent = "Please enter your valid phone number.\nWe will send you 4-digit code to verify account.";
+  static final String location = "Enter your location";
+  static final String phoneNumber = "Enter your phone number";
+  static final String continueText = "Continue";
+  static final String registerTandC = "Please review our\nTeams and Conditions Policy";
+  static final String verifyAccount = "Verify\nAccount!";
+  static final String verifyAccountContent = "Enter 4-digit Code code we have sent to at";
+  static final String otpTimeLine = "This season will end in 60 seconds.";
+  static final String didNotGetCode = "Did’t get code?";
+  static final String recendCode = " Recent Code";
+  static final String accountCreated = "Account Created!";
+  static final String accountCreatedContent = "Dear user your account has been created successfully. Sign in to start using app";
+  static final String signInTitle = "Sign In To Account";
+  static final String signInTitleContent = "Sign with email\n\nand\n\npassword to use your account.";
+  static final String userName = "Email";
+  static final String password = "Password";
+  static final String signin = "Sign in";
+  static final String signinApple = "Sign in with Apple ID";
+  static final String noAccount = "Don’t have an account? - Sign Up";
+  static final String home = "Home";
+  static final String so = "Site Overview";
+  static final String report = "Report";
+  static final String profile = "Profile";
+  static final String hello = "Hello";
+  static final String overview = "Overview";
+  static final String conCost = "Construction Cost";
+  static final String actCost = "Actual Cost";
+  static final String operations = "Operations";
+  static final String siteOverview = "Site Overview";
+  static final String siteAgenda = "  Site Agenda";
+  static final String material = "Materials";
+  static final String budget = "Cost Tracker";
+  static final String reportMenu = "Report";
+  static final String booking = "Booking";
+  static final String liveSite = "Live-Site";
+  static final String viewMore = "View More";
+  static final String projectStatus = "Project Status";
+  static final String milestones = "MILESTONES";
+  static final String status = "Status";
+  static final String task = "Tasks";
+  static final String completed = "Completed";
+  static final String pending = "Pending";
+  static final String sizePlot = "Size Plot";
+  static final String materials = "Materials";
+  static final String rate = "RATE";
+  static final String qty = "QTY";
+  static final String percentage = "%";
+  static final String amount = "Amount";
+
+
+
+}
